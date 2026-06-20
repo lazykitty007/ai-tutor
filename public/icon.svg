@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI 辅导">
+  <rect width="512" height="512" rx="96" fill="#F8F5EF"/>
+  <path d="M128 348c70-26 102-26 172 0 35 13 61-11 61-49V148c0-28-18-48-45-54-57-13-96-4-147 24-22 12-34 34-34 60v156c0 10-3 13-7 14Z" fill="#5E946F" opacity=".22"/>
+  <path d="M160 144c62-34 105-34 167 0v204c-62-34-105-34-167 0V144Z" fill="#FFFFFF" stroke="#0D2B4C" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M202 230h108M202 282h82" stroke="#5E946F" stroke-width="20" stroke-linecap="round"/>
+  <text x="256" y="202" text-anchor="middle" font-family="serif" font-size="78" font-weight="700" fill="#0D2B4C">林</text>
+</svg>
